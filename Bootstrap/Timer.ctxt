@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Timer()
+comment0.text=\r\n\ Default\ constructor\ for\ timer\ object\r\n\ Starts\ the\ timer\ \r\n
+comment1.params=
+comment1.target=void\ mark()
+comment1.text=\r\n\ Starts\ the\ timer\ and\ sets\ the\ starttime\ value\ to\ current\ time\r\n
+comment2.params=
+comment2.target=long\ secondsElapsed()
+comment2.text=\r\n\ Returns\ the\ amount\ of\ seconds\ that\ passed\r\n\ Since\ the\ starting\ event\r\n
+comment3.params=
+comment3.target=long\ millisElapsed()
+comment3.text=\r\n\ Returns\ the\ amount\ of\ millisecondss\ that\ passed\r\n\ Since\ the\ starting\ event\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCurrentTimeStamp()
+comment4.text=\r\n\ Returns\ the\ current\ time\ in\ format\ year-month-day\ hour-minute-seconds\r\n
+numComments=5

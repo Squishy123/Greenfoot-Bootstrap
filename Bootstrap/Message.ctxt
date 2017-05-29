@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=Message(java.lang.Object)
+comment0.text=\r\n\ Sets\ the\ given\ object\ to\ data\r\n
+comment1.params=
+comment1.target=java.lang.Object\ returnData()
+comment1.text=\r\n\ Return\ data\ as\ a\ given\ object\r\n
+comment2.params=data
+comment2.target=void\ setData(java.lang.Object)
+comment2.text=\r\n\ Sets\ the\ given\ object\ to\ data\r\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameObject()
+comment0.text=\r\n\ Constructor\ of\ gameobject\ that\ calls\ create\ method\ at\ instantiation\r\n
+comment1.params=
+comment1.target=Message\ create()
+comment1.text=\r\n\ Called\ ONCE\ at\ object\ instantiation\ before\ init()\r\n
+comment2.params=
+comment2.target=Message\ init()
+comment2.text=\r\n\ Called\ ONCE\ when\ object\ is\ added\ to\ the\ stage\r\n
+comment3.params=
+comment3.target=Message\ update()
+comment3.text=\r\n\ Called\ EVERY\ update\ tick\ after\ init()\r\n
+comment4.params=
+comment4.target=Message\ render()
+comment4.text=\r\n\ Called\ EVERY\ render\ tick\ after\ init()\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ GameObject\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6
